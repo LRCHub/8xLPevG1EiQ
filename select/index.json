@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "能不能和我留在台北（陪我幾天）",
+  "base_artist": "icyball 冰球樂團",
+  "createdAt": "2026-03-15T17:48:26.982580Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "能不能和我留在台北(陪我幾天)",
+      "artist": "冰球樂團",
+      "has_synced": true,
+      "path": "select/01_能不能和我留在台北(陪我幾天)_冰球樂團.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "能不能和我留在台北（陪我幾天）",
+      "artist": "icyball 冰球樂團",
+      "has_synced": true,
+      "path": "select/02_能不能和我留在台北(陪我幾天)_icyball_冰球樂團.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "能不能和我留在台北（陪我幾天）",
+      "artist": "冰球樂團",
+      "has_synced": false,
+      "path": "select/03_能不能和我留在台北(陪我幾天)_冰球樂團.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "能不能和我留在台北 (陪我幾天)",
+      "artist": "icyball 冰球樂團",
+      "has_synced": true,
+      "path": "select/04_能不能和我留在台北_(陪我幾天)_icyball_冰球樂團.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "能不能和我留在台北(陪我幾天)",
+      "artist": "icyball 冰球樂團",
+      "has_synced": false,
+      "path": "select/pl_01_能不能和我留在台北(陪我幾天)_icyball_冰球樂團.txt"
+    }
+  ]
+}
